@@ -10,7 +10,8 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guibsb90&repo=projeto4_clone_disneyplus.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guibsb90&repo=projeto4_clone_disneyplus.github.io&theme=dark)](https://github.com/guibsb90/projeto4_clone_disneyplus.github.io)
+
 
 
 ### Linguagens utilizadas
